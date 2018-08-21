@@ -1,0 +1,25 @@
+#printed{
+	display: none;
+}
+@page{
+		margin-left: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		margin-top: 0px;
+		size: auto;
+}
+tr{
+		background: #ffffff;
+}
+th{
+		background-color: #000000;
+		color: #ffffff;
+}
+hr{
+	background-color: #000000;
+	border: 1px solid #000000; 
+}
+*{
+	-webkit-print-color-adjust: exact;
+	color-adjust: exact;
+}
