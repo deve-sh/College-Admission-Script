@@ -44,5 +44,9 @@ Step 3: Just enter the details of the database and the account details of the ad
 <br>
 That's  it! The script will be installed! Use it anyway you would want to.
 
+## ADVANCED INSTRUCTIONS
+
+Upload your logo as '<b>logo.png</b>' for the logo of the institute.
+
 ## Contact
 For contacting, use the assigned email address : devesh2027@gmail.com
