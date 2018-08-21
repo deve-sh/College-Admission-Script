@@ -1,0 +1,30 @@
+#main{
+	height: 100vh;
+	background: linear-gradient(135deg, #272822 70%, #f4f5f1 70%);
+}
+.left{
+	float: none;
+	clear: both;
+	width: 100%;
+	height: auto;
+}
+.right{
+	float: none;
+	clear: both;
+	padding: 45px;
+	width: 100%;
+	text-align: center;
+	height: auto;
+	margin-top: 8vh;
+}
+.formleft{
+	float: none;
+	clear: both;
+}
+input{
+	width: 70%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Cambria;
+    border: 1px solid #999999;
+}
