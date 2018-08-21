@@ -1,8 +1,3 @@
-<style>
-img{
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
-</style>
 # College Admission Script
 A script for applicants to apply, get approved and declined; to a University/College.<br><br>
 The script is based on the Indian way of Applying to Colleges and Universities, just the difference being this is much smoother and less painstaking!
@@ -10,23 +5,24 @@ The script is based on the Indian way of Applying to Colleges and Universities, 
 ## PREVIEWS
 
 <h4>Install Page : </h4>
-<img src='https://i.imgur.com/58jTzge.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);' src='https://i.imgur.com/58jTzge.png'/>
 <h4>Installation : </h4>
-<img src='https://i.imgur.com/Xcxm010.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);' src='https://i.imgur.com/Xcxm010.png'/>
 <h4>Login Page : </h4>
-<img src='https://i.imgur.com/PhDsrgP.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);'  src='https://i.imgur.com/PhDsrgP.png'/>
 <h4>Register Page : </h4>
-<img src='https://i.imgur.com/dZuFq9I.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);'  src='https://i.imgur.com/dZuFq9I.png'/>
 <h4>User CP : </h4>
-<img src='https://i.imgur.com/6koRpJ3.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);'  src='https://i.imgur.com/6koRpJ3.png'/>
 <h4>Admin CP : </h4>
-<img src='https://i.imgur.com/caPYZ8r.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);'  src='https://i.imgur.com/caPYZ8r.png'/>
 <h4>Applying for Course :</h4>
-<img src='https://i.imgur.com/y23Y7LP.png'/>
+<img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);'  src='https://i.imgur.com/y23Y7LP.png'/>
 
 ## Features
 
 <ul>
+  <li>Completely Secure.</li>
   <li>Self Installation.</li>
   <li>Beautiful Interfaces.</li>
   <li>User Authentication.</li>
