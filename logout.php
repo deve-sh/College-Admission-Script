@@ -1,0 +1,31 @@
+<?
+session_start();
+$_SESSION['userr'];
+$_SESSION['logh'];
+$_SESSION['userid'];
+?>
+<html>
+<head>
+<title>Logout</title>
+<?include("inc/style.php");?>
+</head>
+<body>
+<main>
+	<?
+      if($_SESSION['userr']==""||$_SESSION['userid']==0||$_SESSION['logh']==false){
+      	echo "<br><br>You are already logged out! <bR><br>";
+      	header("refresh:1;url=index.php");
+      	exit();
+      }
+      else{
+      	$_SESSION['logh']=false;
+      	$_SESSION['userr']="";
+      	$_SESSION['userid']=0;
+      	echo "<br>You are successfullly logged out!";
+      	header("refresh:1;url=index.php");
+      	exit();
+      }
+	?>	
+</main>
+</body>
+</html>

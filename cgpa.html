@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CGPA CALCULATOR</title>
+</head>
+<body>
+<div align="center"><h1>MARKS FROM CGPA</h1></div>
+Enter CGPA : <input type="number" min="4" id="cgpa"><br><br>
+<span onclick="calc()">CALCULATE</span>
+<br><br>
+Obtained Marks : <span id='obt'></span>
+<br><br>
+Total Marks : <span id='total'></span>
+<script type="text/javascript">
+	var cgpa=document.getElementById('cgpa');
+	var obt=document.getElementById('obt');
+	var total=document.getElementById('total');
+	function calc(){
+		var obtained=parseFloat(cgpa.value)*9.5;
+		obt.textContent=(obtained);
+		total.textContent="100";
+	};
+	console.log(calc);
+</script>
+</body>
+</html>
