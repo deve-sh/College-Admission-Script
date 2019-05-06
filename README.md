@@ -19,22 +19,7 @@ The script is based on the Indian way of Applying to Colleges and Universities, 
 <h4>Applying for Course :</h4>
 <img style='box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);'  src='https://i.imgur.com/y23Y7LP.png'/>
 
-## Features
-
-<ul>
-  <li>Completely Secure.</li>
-  <li>Self Installation.</li>
-  <li>Beautiful Interfaces.</li>
-  <li>User Authentication.</li>
-  <li>Admin Only areas.</li>
-  <li>User Only Areas.</li>
-  <li>Approval And Declination of Submitted Applications.</li>
-  <li>Complete Database Management from within Module.</li>
-  <li>Addition of Courses and Reservation Quotas from within the Module.</li>
-  <li>File Uploads (For Passport size photograph and Signature).</li>
-</ul>
-
-## INSTALLATION
+## Usage and Installation
 
 Step 1 : Download the repository to the desired folder, then upload the contents to whichever server you want.
 <br><br>Step 2: Log on to <<span>The domain you uploaded the files to</span>>/Install.
@@ -44,9 +29,12 @@ Step 3: Just enter the details of the database and the account details of the ad
 <br>
 That's  it! The script will be installed! Use it anyway you would want to.
 
-## ADVANCED INSTRUCTIONS
+### ADVANCED INSTRUCTIONS
 
 Upload your logo as '<b>logo.png</b>' for the logo of the institute.
 
-## Contact
-For contacting, use the assigned email address : devesh2027@gmail.com
+## Contribution and Issues
+
+The project is certainly not perfect and requires a great deal of contribution. Thus, just edit any of the code you deem appropriate and start a pull request with it. The pull requests shall be accepted if they improve the web app.
+
+For any issues, just raise an issue in the repository or [contact me](mailto:devesh2027@gmail.com).
